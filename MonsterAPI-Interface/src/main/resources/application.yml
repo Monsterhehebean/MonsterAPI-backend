@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+monsterapi-client:
+  access-key: monster
+  secret-key: abcdefgh
